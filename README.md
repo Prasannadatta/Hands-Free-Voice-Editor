@@ -1,2 +1,5 @@
 # Hands-Free-Voice-Editor
-Frontend:
+
+Frontend: https://github.com/Prasannadatta/capstone-complete-app
+
+Backend: https://github.com/Prasannadatta/capstone-complete-api
